@@ -1,0 +1,212 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+a {
+  color: #63bbe1;
+}
+a:hover {
+  color: #16abb2;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #000000;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  background-color: #63bbe1;
+  color: #000;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #63bbe1;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #63bbe1;
+}
+#offcanvas-toggler >i {
+  color: #fff;
+}
+#offcanvas-toggler >i:hover {
+  color: #63bbe1;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li:hover >a,
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.active >a {
+  background: #63bbe1;
+}
+.offcanvas-menu .offcanvas-inner .sp-module .search input:hover,
+.offcanvas-menu .offcanvas-inner .sp-module .search input:focus {
+  border: 1px solid #63bbe1;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #18bcc5;
+  background-color: #63bbe1;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #13959c;
+  background-color: #16abb2;
+}
+ul.social-icons >li a:hover {
+  color: #63bbe1;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #63bbe1;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #63bbe1;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #63bbe1;
+}
+.search .btn-toolbar button {
+  background: #63bbe1;
+}
+.post-format {
+  background: #63bbe1;
+}
+.voting-symbol span.star.active:before {
+  color: #63bbe1;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #16abb2;
+}
+.entry-link,
+.entry-quote {
+  background: #63bbe1;
+}
+blockquote {
+  border-color: #63bbe1;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #63bbe1;
+}
+.sppb-slideshow-fullwidth-item-bg .sppb-slideshow-fullwidth-item-text a.sppb-slideshow-fullwidth-read-more {
+  border: 1px solid #63bbe1;
+}
+.sppb-addon-latest-posts .latest-posts .sppb-row >.sppb-column.latest-post:nth-child(1) >div:after {
+  background: transparent;
+}
+.sppb-addon-latest-posts .latest-posts .sppb-row >.sppb-column.latest-post:nth-child(2) >div:after {
+  background: transparent;
+}
+#sp-footer {
+  background: #000;
+}
+.sp-comingsoon body {
+  background-color: #63bbe1;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #63bbe1;
+  background-color: #63bbe1;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #63bbe1;
+  background-color: #63bbe1;
+}
+#sp-page-builder .onepage-teams-section .sppb-section-title .sppb-title-heading,
+#sp-page-builder .onepage-teams-section .sppb-section-title .sppb-title-subheading {
+  color: #000000;
+}
+.sppb-teams-wrapper .sppb-carousel-arrow {
+  color: #000000;
+}
+.features-hexa .sppb-addon-feature .sppb-icon >span {
+  background: #63bbe1;
+}
+.features-hexa .sppb-addon-feature:hover .sppb-addon-text {
+  color: #000000;
+}
+#mod-sp-simpleportfolio.sp-simpleportfolio .sp-simpleportfolio-filter ul > li > a {
+  color: #404040;
+}
+#mod-sp-simpleportfolio.sp-simpleportfolio .sp-simpleportfolio-filter ul > li > a:hover {
+  color: #000000;
+}
+#mod-sp-simpleportfolio.sp-simpleportfolio .sp-simpleportfolio-filter li.active a {
+  color: #000000;
+}
+#mod-sp-simpleportfolio.sp-simpleportfolio .sp-simpleportfolio-item .sp-simpleportfolio-overlay-wrapper .sp-simpleportfolio-img {
+  width: 100%;
+}
+#mod-sp-simpleportfolio.sp-simpleportfolio .sp-simpleportfolio-item .sp-simpleportfolio-overlay-wrapper .sp-simpleportfolio-overlay {
+  background: #63bbe1;
+}
+.onepage-clients-text {
+  color: #000000;
+}
+.entry-header dl.article-info dd.category-name a {
+  color: #000000;
+}
+.onepage-contact-wrapper .sppb-addon-container .onepage-contact-form .sppb-addon-content form input,
+.onepage-contact-wrapper .sppb-addon-container .onepage-contact-form .sppb-addon-content form textarea {
+  border: 1px solid #000000;
+}
+ul.pagenav a {
+  border: solid 1px #63bbe1;
+}
+ul.pagenav a:hover {
+  background: #63bbe1;
+  border: solid 1px #63bbe1;
+}
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-bg .container .sppb-slideshow-fullwidth-item-text a.sppb-slideshow-fullwidth-read-more:after {
+  background-color: #63bbe1;
+}
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .customNavigation a.sppbSlidePrev i:hover {
+  color: #63bbe1;
+}
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .customNavigation a.sppbSlideNext i:hover {
+  color: #63bbe1;
+}
+.sppb-teams-wrapper ul li.active .sppb-team-info {
+  background: #63bbe1;
+}
+.features-hexa .sppb-addon-feature .sppb-icon span:before {
+  border-bottom: 30px solid #63bbe1;
+}
+.features-hexa .sppb-addon-feature .sppb-icon span:after {
+  border-top: 30px solid #63bbe1;
+}
+.onepage-contact-wrapper .sppb-addon-container .onepage-contact-form .sppb-addon-content form .sppb-form-control:hover,
+.onepage-contact-wrapper .sppb-addon-container .onepage-contact-form .sppb-addon-content form .sppb-form-control:focus {
+  border: 1px solid #63bbe1;
+}
+.onepage-contact-wrapper .sppb-addon-container .onepage-contact-form .sppb-addon-content form .sppb-btn-success:hover {
+  border-color: #63bbe1;
+  background: #63bbe1;
+}
+.onepage-bottom .sppb-addon-feature .sppb-icon i {
+  color: #63bbe1;
+}
+.onepage-bottom .bottom-social-share i:hover {
+  color: #63bbe1;
+}
